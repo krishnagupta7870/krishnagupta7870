@@ -77,14 +77,6 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 </table>
 
 
-<p align="left">
-<a href="https://codeforces.com/" target="_blank"><img src="https://cdn.simpleicons.org/codeforces" width="50"/></a>
-<a href="https://leetcode.com/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="50"/></a>
-<a href="https://hackerearth.com/" target="_blank"><img src="https://cdn.simpleicons.org/hackerearth" width="50"/></a>
-<a href="https://geeksforgeeks.org/" target="_blank"><img src="https://cdn.simpleicons.org/geeksforgeeks" width="50"/></a>
-</p>
-
----
 
 <h2 align="left">Languages and Tools:</h2>
 
