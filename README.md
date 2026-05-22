@@ -1,4 +1,3 @@
-<img width="128" height="128" alt="emote)" src="https://github.com/user-attachments/assets/f9347fa7-5549-4b8f-aad0-28793921b772" />
 <h1>
 <img src="https://github.com/user-attachments/assets/f9347fa7-5549-4b8f-aad0-28793921b772" width="45"/> नमस्ते (Namaste)🙏🏻, I'm Krishna Kumar Gupta ! 👋
 </h1>
