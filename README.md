@@ -9,11 +9,10 @@ A passionate MERN stack developer from India with a focus on robotics developmen
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnagupta7870&theme=radical" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnagupta7870&theme=radical&hide_border=false" />
   
-  <img width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img width="23%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
-
 ---
 
 - 🌱 I’m currently learning **Java, DSA and MERN Stack**
