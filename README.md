@@ -78,36 +78,78 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 
 
 
-<h2 align="left">Languages and Tools:</h2>
+## 🛠 Languages and Tools:
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino" width="50"/>
-<img src="https://skillicons.dev/icons?i=angular" width="50"/>
-<img src="https://skillicons.dev/icons?i=bash" width="50"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
-<img src="https://skillicons.dev/icons?i=c" width="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-<img src="https://skillicons.dev/icons?i=express" width="50"/>
-<img src="https://skillicons.dev/icons?i=figma" width="50"/>
-<img src="https://skillicons.dev/icons?i=firebase" width="50"/>
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-<img src="https://skillicons.dev/icons?i=materialui" width="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-<img src="https://skillicons.dev/icons?i=opencv" width="50"/>
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-<img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-<img src="https://skillicons.dev/icons?i=redux" width="50"/>
-<img src="https://skillicons.dev/icons?i=sass" width="50"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-<img src="https://skillicons.dev/icons?i=typescript" width="50"/>
-<img src="https://skillicons.dev/icons?i=vue" width="50"/>
-<img src="https://skillicons.dev/icons?i=webpack" width="50"/>
-<img src="https://skillicons.dev/icons?i=xd" width="50"/>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="45"/><br>Arduino</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45"/><br>AngularJS</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="45"/><br>Bash</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>C++</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express.js</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="45"/><br>JavaScript</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="45"/><br>Materialize CSS</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=matlab" width="45"/><br>Matlab</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="45"/><br>Pandas</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br>PyTorch</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=sass" width="45"/><br>Sass</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="45"/><br>TypeScript</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=webpack" width="45"/><br>Webpack</td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=xd" width="45"/><br>Adobe XD</td>
+
+<td align="center"><img src="https://cdn.simpleicons.org/xml" width="45"/><br>XML</td>
+</tr>
+</table>
