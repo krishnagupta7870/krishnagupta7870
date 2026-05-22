@@ -76,16 +76,6 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 </tr>
 </table>
 
-<p align="left">
-<a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
-<a href="https://dribbble.com/" target="_blank"><img src="https://cdn.simpleicons.org/dribbble" width="50"/></a>
-<a href="https://behance.net/" target="_blank"><img src="https://cdn.simpleicons.org/behance" width="50"/></a>
-<a href="https://hashnode.com/" target="_blank"><img src="https://cdn.simpleicons.org/hashnode" width="50"/></a>
-<a href="https://medium.com/" target="_blank"><img src="https://cdn.simpleicons.org/medium" width="50"/></a>
-<a href="https://youtube.com/" target="_blank"><img src="https://cdn.simpleicons.org/youtube" width="50"/></a>
-<a href="https://codechef.com/" target="_blank"><img src="https://cdn.simpleicons.org/codechef" width="50"/></a>
-<a href="https://hackerrank.com/" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank" width="50"/></a>
-</p>
 
 <p align="left">
 <a href="https://codeforces.com/" target="_blank"><img src="https://cdn.simpleicons.org/codeforces" width="50"/></a>
