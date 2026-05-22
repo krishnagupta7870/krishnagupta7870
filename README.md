@@ -1,4 +1,4 @@
-<h1 align="center">✨ Namaste, I'm Krishna Kumar Gupta 👋</h1>
+<h1 align="center">✨ नमस्ते (Namaste)🙏🏻, I'm Krishna Kumar Gupta ! 👋</h1>
 
 <h3 align="center">
 BTech Student | Java Developer | MERN Stack Learner
