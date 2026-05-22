@@ -2,7 +2,7 @@
 ✨ नमस्ते (Namaste)🙏🏻, I'm Krishna Kumar Gupta ! 👋
 </h1>
 <h3 align="center">
-BTech Student | Java Developer | MERN Stack Learner
+A passionate MERN stack developer from India with a focus on robotics development and programming, and a keen interest in machine learning.
 </h3>
 
 ---
