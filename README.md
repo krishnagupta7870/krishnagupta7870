@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-A passionate MERN stack developer from India with a focus on robotics development and programming, and a keen interest in machine learning.
+A passionate MERN stack developer from Nepal with a focus on Web development and programming, and a keen interest in machine learning.
 </h3>
 
 <p>
