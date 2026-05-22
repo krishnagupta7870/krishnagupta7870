@@ -8,11 +8,13 @@ A passionate MERN stack developer from India with a focus on robotics developmen
 
 ---
 
-<p align="center">
-  <img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnagupta7870&theme=radical&hide_border=false" />
-  
-  <img width="22%" src="https://github.com/user-attachments/assets/7e3bab0e-87ff-4c16-a03a-2fce8ae25ff8" />
+<p>
+  <img align="left" width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnagupta7870&theme=radical&hide_border=false" />
+
+  <img align="right" width="24%" src="https://github.com/user-attachments/assets/7e3bab0e-87ff-4c16-a03a-2fce8ae25ff8" />
 </p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
 
