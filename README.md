@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">✨ Namaste, I'm Krishna Kumar Gupta 👋</h1>
 
-<!--
-**krishnagupta7870/krishnagupta7870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+BTech Student | Java Developer | MERN Stack Learner
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+- 🌱 I’m currently learning **Java, DSA and MERN Stack**
+
+- 💻 I love building **Web Projects**
+
+- 🤝 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 Reach me at: **yourmail@gmail.com**
+
+- ⚡ Fun fact: **I love coding and aesthetic profiles**
