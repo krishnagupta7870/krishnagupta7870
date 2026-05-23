@@ -48,7 +48,7 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 </tr>
 
 <tr>
-<td align="center"><a href="https://instagram.com/krishna.gupta7870"><img src="https://skillicons.dev/icons?i=instagram" width="45"/><br>Instagram</a></td>
+<td align="center"><a href="https://instagram.com/[krishna.gupta7870](https://www.instagram.com/krishna.gupta7870/)"><img src="https://skillicons.dev/icons?i=instagram" width="45"/><br>Instagram</a></td>
 
 <td align="center"><a href="https://dribbble.com/"><img src="https://cdn.simpleicons.org/dribbble" width="45"/><br>Dribbble</a></td>
 
