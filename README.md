@@ -20,7 +20,7 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 Reach me at: **krishnagupta@example.com**
+- 📫 Reach me at: **krishna.birgunj@gmail.com**
 
 - ⚡ Fun fact: **I love coding and aesthetic profiles**
 
