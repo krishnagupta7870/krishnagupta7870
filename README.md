@@ -44,7 +44,7 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 <td align="center"><a href="https://kaggle.com/"><img src="https://cdn.simpleicons.org/kaggle" width="45"/><br>Kaggle</a></td>
 
 <td align="center"><a href="https://facebook.com/"><img src="https://cdn.simpleicons.org/facebook" width="45"/><br>Facebook</a></td>
-</tr>
+<tr>
 
 <tr>
 <td align="center"><a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/><br>Instagram</a></td>
