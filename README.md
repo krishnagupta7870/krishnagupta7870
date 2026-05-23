@@ -28,7 +28,7 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 ## 🔗 Connect with me:
 
 <table>
-<tr>
+
 <td align="center"><a href="https://dev.to/"><img src="https://skillicons.dev/icons?i=devto" width="45"/><br>Dev.to</a></td>
 
 <td align="center"><a href="https://codepen.io/"><img src="https://skillicons.dev/icons?i=codepen" width="45"/><br>CodePen</a></td>
