@@ -77,7 +77,7 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 
 ## 🛠 Languages and Tools:
 
-
+</table>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
