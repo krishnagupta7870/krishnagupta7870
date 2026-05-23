@@ -24,7 +24,6 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 
 - ⚡ Fun fact: **I love coding and aesthetic profiles**
 
----
 
 ## 🔗 Connect with me:
 
