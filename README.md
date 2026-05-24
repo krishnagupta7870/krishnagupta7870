@@ -25,7 +25,7 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 - ⚡ Fun fact: **I love coding and aesthetic profiles**
 
 
-🔗 <b>Connect with me:</b>
+## 🔗 Connect with me:
 
 <table>
 <tr>
@@ -44,6 +44,34 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 <td align="center"><a href="https://kaggle.com/"><img src="https://cdn.simpleicons.org/kaggle" width="45"/><br>Kaggle</a></td>
 
 <td align="center"><a href="https://facebook.com/"><img src="https://cdn.simpleicons.org/facebook" width="45"/><br>Facebook</a></td>
+</tr>
+
+<tr>
+<td align="center"><a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/><br>Instagram</a></td>
+
+<td align="center"><a href="https://dribbble.com/"><img src="https://cdn.simpleicons.org/dribbble" width="45"/><br>Dribbble</a></td>
+
+<td align="center"><a href="https://behance.net/"><img src="https://cdn.simpleicons.org/behance" width="45"/><br>Behance</a></td>
+
+<td align="center"><a href="https://hashnode.com/"><img src="https://cdn.simpleicons.org/hashnode" width="45"/><br>Hashnode</a></td>
+
+<td align="center"><a href="https://medium.com/"><img src="https://cdn.simpleicons.org/medium" width="45"/><br>Medium</a></td>
+
+<td align="center"><a href="https://youtube.com/"><img src="https://cdn.simpleicons.org/youtube" width="45"/><br>YouTube</a></td>
+
+<td align="center"><a href="https://codechef.com/"><img src="https://cdn.simpleicons.org/codechef" width="45"/><br>CodeChef</a></td>
+
+<td align="center"><a href="https://hackerrank.com/"><img src="https://cdn.simpleicons.org/hackerrank" width="45"/><br>HackerRank</a></td>
+</tr>
+
+<tr>
+<td align="center"><a href="https://codeforces.com/"><img src="https://cdn.simpleicons.org/codeforces" width="45"/><br>Codeforces</a></td>
+
+<td align="center"><a href="https://leetcode.com/"><img src="https://cdn.simpleicons.org/leetcode" width="45"/><br>LeetCode</a></td>
+
+<td align="center"><a href="https://hackerearth.com/"><img src="https://cdn.simpleicons.org/hackerearth" width="45"/><br>HackerEarth</a></td>
+
+<td align="center"><a href="https://geeksforgeeks.org/"><img src="https://cdn.simpleicons.org/geeksforgeeks" width="45"/><br>GeeksforGeeks</a></td>
 </tr>
 </table>
 
