@@ -25,7 +25,53 @@ A passionate MERN stack developer from Nepal with a focus on Web development and
 - ⚡ Fun fact: **I love coding and aesthetic profiles**
 
 
-<h2>🔗 Connect with me:</h2>
+class Solution {
+    public int minOperations(int[] nums) {
+        int n = nums.length;
+        int ans = Integer.MAX_VALUE;
+
+        // Only left rotations
+        for (int k = 0; k < n; k++) {
+            boolean ok = true;
+
+            for (int i = 0; i < n; i++) {
+                if (nums[(i + k) % n] != i) {
+                    ok = false;
+                    break;
+                }
+            }
+
+            if (ok) {
+                ans = Math.min(ans, k);
+            }
+        }
+
+        // Reverse array
+        int[] rev = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            rev[i] = nums[n - 1 - i];
+        }
+
+        // Reverse + rotations
+        for (int k = 0; k < n; k++) {
+            boolean ok = true;
+
+            for (int i = 0; i < n; i++) {
+                if (rev[(i + k) % n] != i) {
+                    ok = false;
+                    break;
+                }
+            }
+
+            if (ok) {
+                ans = Math.min(ans, 1 + k);
+            }
+        }
+
+        return ans == Integer.MAX_VALUE ? -1 : ans;
+    }
+}🔗 Connect with me:</h2>
 
 <table>
 <tr>
